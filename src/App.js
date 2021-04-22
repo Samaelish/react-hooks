@@ -1,9 +1,9 @@
-import UseRef2 from './UseRef2'
+import UseCallback from './UseCallback'
 
 function App() {
   return (
     <>
-      <UseRef2 />
+      <UseCallback />
     </>
   )
 }
